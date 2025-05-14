@@ -3,7 +3,7 @@
 # Step 3 : Arrays
 ## Lec 1 : Easy
 | Status |                     Problem                  |                       Solution                         | Difficulty |
-|--------|----------------------------------------------|--~------------------------------------------------------|------------|
+|--------|----------------------------------------------|--------------------------------------------------------|------------|
 | Done | Largest Element in an Array                    | [File](03_Arrays/0_Easy/01_largest_ele.cpp)            |    Easy    |
 | Done | Second Largest Element in an Array w/o Sorting | [File](03_Arrays/0_Easy/02_second_largest.cpp)         |    Easy    |
 | Done | Check Rotated & Sorted                         | [File](03_Arrays/0_Easy/03_check_rotated_&_sorted.cpp) |    Easy    |
