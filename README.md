@@ -18,3 +18,5 @@
 | Status |           Problem           |                     Solution                    | Difficulty |
 |--------|-----------------------------|-------------------------------------------------|------------|
 |  Done  | Pascal's Triangle           | [File](03_Arrays/2_Hard/01_pascal_triangle.cpp) |   Medium   |
+|  Done  | Majority Element (>n/3)     | [File](03_Arrays/2_Hard/02_majority_ele_2.cpp)  |   Medium   |
+|  Done  | Three Sum                   | [File](03_Arrays/2_Hard/03_three_sum.cpp)       |   Medium   |
