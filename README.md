@@ -1,6 +1,6 @@
 # Striver's A2Z DSA Sheet
 
-### 41/455
+### 51/455
 
 ---
 
@@ -62,15 +62,15 @@
 
 ---
 
-# Step 4: Binary Search
+# Step 4: Binary Search (6/32)
 
-## Lec 1: BS on 1D Arrays (1/13)
+## Lec 1: BS on 1D Arrays (3/13)
 
 | S No | Problem                                                                 | Difficulty | Solution |
 |------|-------------------------------------------------------------------------|------------|----------|
-| 1    | Binary Search to find X in sorted array                                 | Easy       |[File](/04_Binary_Search/0_Easy/00_bs.cpp)|
-| 2    | Implement Lower Bound                                                   | Easy       ||
-| 3    | Implement Upper Bound                                                   | Easy       ||
+| 1    | Binary Search to find X in sorted array                                 | Easy       |[File](04_Binary_Search/0_Easy/01_bs.cpp)|
+| 2    | Implement Lower Bound                                                   | Easy       |[File](04_Binary_Search/0_Easy/02_lower_bound.cpp)|
+| 3    | Implement Upper Bound                                                   | Easy       |[File](04_Binary_Search/0_Easy/03_upper_bound.cpp)|
 | 4    | Search Insert Position                                                  | Easy       ||
 | 5    | Floor/Ceil in Sorted Array                                              | Medium     ||
 | 6    | Find the first or last occurrence of a given number in a sorted array   | Easy       ||
@@ -82,31 +82,31 @@
 | 12   | Single element in a Sorted Array                                        | Easy       ||
 | 13   | Find peak element                                                       | Hard       ||
 
-## Lec 2: BS on Answers (0/14)
+## Lec 2: BS on Answers (3/14)
 
-| S No | Problem                                                                | Difficulty | Solution |
-|------|------------------------------------------------------------------------|------------|----------|
-| 1   | Find square root of a number in log n                                   | Medium     ||
-| 2   | Find the Nth root of a number using binary search                       | Medium     ||
-| 3   | Koko Eating Bananas                                                     | Hard       ||
-| 4   | Minimum days to make M bouquets                                         | Hard       ||
-| 5   | Find the smallest Divisor                                               | Easy       ||
-| 6   | Capacity to Ship Packages within D Days                                 | Hard       ||
-| 7   | Kth Missing Positive Number                                             | Easy       ||
-| 8   | Aggressive Cows                                                         | Hard       ||
-| 9   | Book Allocation Problem                                                 | Hard       ||
-| 10  | Split array – Largest Sum                                               | Hard       ||
-| 11  | Painter’s partition                                                     | Hard       ||
-| 12  | Minimize Max Distance to Gas Station                                    | Hard       ||
-| 13  | Median of 2 sorted arrays                                               | Hard       ||
-| 14  | Kth element of 2 sorted arrays                                          | Medium     ||
+| S No | Problem                                          | Difficulty | Solution |
+|------|--------------------------------------------------|------------|----------|
+| 1   | Find square root of a number in log n             | Medium |[File](04_Binary_Search/1_Medium/01_binary_sqrt.cpp)|
+| 2   | Find the Nth root of a number using binary search | Medium |[File](04_Binary_Search/1_Medium/02_nth_root.cpp)|
+| 3   | Koko Eating Bananas                               | Hard   |[File](04_Binary_Search/1_Medium/03_koko_eating_bananas.cpp)|
+| 4   | Minimum days to make M bouquets                   | Hard   ||
+| 5   | Find the smallest Divisor                         | Easy   ||
+| 6   | Capacity to Ship Packages within D Days           | Hard   ||
+| 7   | Kth Missing Positive Number                       | Easy   ||
+| 8   | Aggressive Cows                                   | Hard   ||
+| 9   | Book Allocation Problem                           | Hard   ||
+| 10  | Split array – Largest Sum                         | Hard   ||
+| 11  | Painter’s partition                               | Hard   ||
+| 12  | Minimize Max Distance to Gas Station              | Hard   ||
+| 13  | Median of 2 sorted arrays                         | Hard   ||
+| 14  | Kth element of 2 sorted arrays                    | Medium ||
 
-## Lec 3: BS on 2D Arrays (0/5)
+## Lec 3: BS on 2D Arrays (5/5)
 
-| S No | Problem                                                                 | Difficulty | Solution |
-|------|-------------------------------------------------------------------------|------------|----------|
-| 1    | Find the row with maximum number of 1’s                                 | Easy       ||
-| 2    | Search in a 2 D matrix                                                  | Medium     ||
-| 3    | Search in a row and column wise sorted matrix                           | Medium     ||
-| 4    | Find Peak Element (2D Matrix)                                           | Hard       ||
-| 5    | Matrix Median                                                           | Hard       ||
+| S No | Problem                                       | Difficulty | Solution |
+|------|-----------------------------------------------|------------|----------|
+| 1    | Find the row with maximum number of 1’s       | Easy       | [File](04_Binary_Search/2_2D_Arrays/01_max_1s_in_one_row.cpp) |
+| 2    | Search in a 2 D matrix                        | Medium     | [File](04_Binary_Search/2_2D_Arrays/02_Search_in_2d_matrix.cpp) |
+| 3    | Search in a row and column wise sorted matrix | Medium     | [File](04_Binary_Search/2_2D_Arrays/03_Search_in_2d_matrix_II.cpp) |
+| 4    | Find Peak Element (2D Matrix)                 | Hard       | [File](04_Binary_Search/2_2D_Arrays/04_find_peak_2.cpp) |
+| 5    | Matrix Median                                 | Hard       | [File](04_Binary_Search/2_2D_Arrays/05_median_in_2d.cpp) |
