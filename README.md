@@ -1,22 +1,112 @@
 # Striver's A2Z DSA Sheet
 
-# Step 3 : Arrays
-## Lec 1 : Easy
-| Status |                     Problem                  |                       Solution                         | Difficulty |
-|--------|----------------------------------------------|--------------------------------------------------------|------------|
-| Done | Largest Element in an Array                    | [File](03_Arrays/0_Easy/01_largest_ele.cpp)            |    Easy    |
-| Done | Second Largest Element in an Array w/o Sorting | [File](03_Arrays/0_Easy/02_second_largest.cpp)         |    Easy    |
-| Done | Check Rotated & Sorted                         | [File](03_Arrays/0_Easy/03_check_rotated_&_sorted.cpp) |    Easy    |
-## Lec 1 : Medium
-| Status | Problem                    |                    Solution                            | Difficulty |
-|--------|----------------------------|--------------------------------------------------------|------------|
-|  Done  | Two Sum                    | [File](03_Arrays/1_Medium/01_two_sum.cpp)              |    Easy    |
-|  Done  | Sort Colors                | [File](03_Arrays/1_Medium/02_Sort_colors.cpp)          |   Medium   |
-|  Done  | Majority Element (>n/2)    | [File](03_Arrays/1_Medium/03_Majority_Element.cpp)     |    Easy    |
-|  Done  | Maximum Subarray Sum       | [File](03_Arrays/1_Medium/04_Kadanes_Algorithm.cpp)    |    Easy    |
-## Lec 1 : Hard
-| Status |           Problem           |                     Solution                    | Difficulty |
-|--------|-----------------------------|-------------------------------------------------|------------|
-|  Done  | Pascal's Triangle           | [File](03_Arrays/2_Hard/01_pascal_triangle.cpp) |   Medium   |
-|  Done  | Majority Element (>n/3)     | [File](03_Arrays/2_Hard/02_majority_ele_2.cpp)  |   Medium   |
-|  Done  | Three Sum                   | [File](03_Arrays/2_Hard/03_three_sum.cpp)       |   Medium   |
+### 41/455
+
+---
+
+# Step 3 : Arrays (40/40)
+
+## Lec 1 : Easy (14/14)
+| S No | Problem                                              | Difficulty | Solution                                                     |
+|------|------------------------------------------------------|------------|--------------------------------------------------------------|
+| 1    | Largest Element in an Array                          | Easy       | [File](03_Arrays/0_Easy/01_largest_ele.cpp)                  |
+| 2    | Second Largest Element in an Array w/o Sorting       | Easy       | [File](03_Arrays/0_Easy/02_second_largest.cpp)               |
+| 3    | Check if the array is sorted                         | Easy       | [File](03_Arrays/0_Easy/03_check_sorted.cpp)                 |
+| 4    | Remove Duplicates from Sorted Array                  | Easy       | [File](03_Arrays/0_Easy/04_remove_duplicates.cpp)            |
+| 5    | Left Rotate an array by one place                    | Easy       | [File](03_Arrays/0_Easy/05_left_rotate_once.cpp)             |
+| 6    | Left rotate an array by D places                     | Easy       | [File](03_Arrays/0_Easy/06_left_rotate_d_places.cpp)         |
+| 7    | Move Zeroes to end                                   | Easy       | [File](03_Arrays/0_Easy/07_move_zeroes.cpp)                  |
+| 8    | Linear Search                                        | Easy       | too ez                                                       |
+| 9    | Find the Union                                       | Medium     | too ez                                                       |
+| 10   | Find missing number in an array                      | Easy       | too ez                                                       |
+| 11   | Maximum Consecutive Ones                             | Easy       | too ez                                                       |
+| 12   | Find number occurring once, others twice             | Medium     | too ez                                                       |
+| 13   | Longest subarray with sum K (positives)              | Medium     | too ez                                                       |
+| 14   | Longest subarray with sum K (positives + negatives)  | Medium     | DO THIS!                                                     |
+
+
+## Lec 2 : Medium (14/14)
+| S No | Problem                                              | Difficulty | Solution                                                     |
+|------|------------------------------------------------------|------------|--------------------------------------------------------------|
+| 1    | Two Sum                                              | Medium     | [File](03_Arrays/1_Medium/01_two_sum.cpp)                    |
+| 2    | Sort Colors                                          | Medium     | [File](03_Arrays/1_Medium/02_sort_colors.cpp)                |
+| 3    | Majority Element (>n/2)                              | Easy       | [File](03_Arrays/1_Medium/03_majority_element.cpp)           |
+| 4    | Maximum Subarray Sum (Kadane's)                      | Easy       | [File](03_Arrays/1_Medium/04_kadanes_algorithm.cpp)          |
+| 5    | Print Max Subarray Sum                               | Medium     | [File](03_Arrays/1_Medium/05_print_max_subarray.cpp)         |
+| 6    | Stock Buy & Sell                                     | Easy       | [File](03_Arrays/1_Medium/06_stock.cpp)                      |
+| 7    | Rearrange Array by Sign (2 versions)                 | Medium     | [File](03_Arrays/1_Medium/07_rearr_by_sign.cpp)              |
+| 8    | Next Permutation                                     | Medium     | [File](03_Arrays/1_Medium/08_next_perm.cpp)                  |
+| 9    | Leaders in Array                                     | Easy       | [File](03_Arrays/1_Medium/09_leader.cpp)                     |
+| 10   | Longest Consecutive Sequence                         | Medium     | [File](03_Arrays/1_Medium/10_longest_seq.cpp)                |
+| 11   | Set Matrix Zeroes                                    | Medium     | [File](03_Arrays/1_Medium/11_set_zeroes.cpp)                 |
+| 12   | Rotate Matrix by 90 degrees                          | Medium     | DO THIS!                                                     |
+| 13   | Print the matrix in spiral manner                    | Medium     | DO THIS!                                                     |
+| 14   | Count subarrays with given sum                       | Easy       | DO THIS!                                                     |
+
+
+## Lec 3 : Hard (12/12)
+| S No | Problem                                              | Difficulty | Solution                                                     |
+|------|------------------------------------------------------|------------|--------------------------------------------------------------|
+| 1    | Pascal's Triangle                                    | Medium     | [File](03_Arrays/2_Hard/01_pascal_triangle.cpp)              |
+| 2    | Majority Element (>n/3)                              | Medium     | [File](03_Arrays/2_Hard/02_majority_ele_2.cpp)               |
+| 3    | Three Sum                                            | Medium     | [File](03_Arrays/2_Hard/03_three_sum.cpp)                    |
+| 4    | Four Sum                                             | Medium     | [File](03_Arrays/2_Hard/04_four_sum.cpp)                     |
+| 5    | Longest Subarray with Zero Sum                       | Medium     | [File](03_Arrays/2_Hard/05_longest_subarray_zero_sum.cpp)    |
+| 6    | Subarray with XOR K                                  | Medium     | [File](03_Arrays/2_Hard/06_subarr_w_xor.cpp)                 |
+| 7    | Merge Overlapping Intervals                          | Medium     | [File](03_Arrays/2_Hard/07_merge_overlapping_intervals.cpp)  |
+| 8    | Merge Two Sorted Arrays Without Extra Space          | Medium     | [File](03_Arrays/2_Hard/08_merge_sorted_arrays.cpp)          |
+| 9    | Repeat and Missing Number                            | Medium     | [File](03_Arrays/2_Hard/09_repeating_&_missing.cpp)          |
+| 10   | Count Inversions                                     | Hard       | [File](03_Arrays/2_Hard/10_count_inversions.cpp)             |
+| 11   | Reverse Pairs                                        | Hard       | [File](03_Arrays/2_Hard/11_reverse_pairs.cpp)                |
+| 12   | Max Product Subarray                                 | Medium     | [File](03_Arrays/2_Hard/12_max_product_subarray.cpp)         |
+
+---
+
+# Step 4: Binary Search
+
+## Lec 1: BS on 1D Arrays (1/13)
+
+| S No | Problem                                                                 | Difficulty | Solution |
+|------|-------------------------------------------------------------------------|------------|----------|
+| 1    | Binary Search to find X in sorted array                                 | Easy       |[File](/04_Binary_Search/0_Easy/00_bs.cpp)|
+| 2    | Implement Lower Bound                                                   | Easy       ||
+| 3    | Implement Upper Bound                                                   | Easy       ||
+| 4    | Search Insert Position                                                  | Easy       ||
+| 5    | Floor/Ceil in Sorted Array                                              | Medium     ||
+| 6    | Find the first or last occurrence of a given number in a sorted array   | Easy       ||
+| 7    | Count occurrences of a number in a sorted array with duplicates         | Easy       ||
+| 8    | Search in Rotated Sorted Array I                                        | Medium     ||
+| 9    | Search in Rotated Sorted Array II                                       | Medium     ||
+| 10   | Find minimum in Rotated Sorted Array                                    | Medium     ||
+| 11   | Find out how many times has an array been rotated                       | Easy       ||
+| 12   | Single element in a Sorted Array                                        | Easy       ||
+| 13   | Find peak element                                                       | Hard       ||
+
+## Lec 2: BS on Answers (0/14)
+
+| S No | Problem                                                                | Difficulty | Solution |
+|------|------------------------------------------------------------------------|------------|----------|
+| 1   | Find square root of a number in log n                                   | Medium     ||
+| 2   | Find the Nth root of a number using binary search                       | Medium     ||
+| 3   | Koko Eating Bananas                                                     | Hard       ||
+| 4   | Minimum days to make M bouquets                                         | Hard       ||
+| 5   | Find the smallest Divisor                                               | Easy       ||
+| 6   | Capacity to Ship Packages within D Days                                 | Hard       ||
+| 7   | Kth Missing Positive Number                                             | Easy       ||
+| 8   | Aggressive Cows                                                         | Hard       ||
+| 9   | Book Allocation Problem                                                 | Hard       ||
+| 10  | Split array – Largest Sum                                               | Hard       ||
+| 11  | Painter’s partition                                                     | Hard       ||
+| 12  | Minimize Max Distance to Gas Station                                    | Hard       ||
+| 13  | Median of 2 sorted arrays                                               | Hard       ||
+| 14  | Kth element of 2 sorted arrays                                          | Medium     ||
+
+## Lec 3: BS on 2D Arrays (0/5)
+
+| S No | Problem                                                                 | Difficulty | Solution |
+|------|-------------------------------------------------------------------------|------------|----------|
+| 1    | Find the row with maximum number of 1’s                                 | Easy       ||
+| 2    | Search in a 2 D matrix                                                  | Medium     ||
+| 3    | Search in a row and column wise sorted matrix                           | Medium     ||
+| 4    | Find Peak Element (2D Matrix)                                           | Hard       ||
+| 5    | Matrix Median                                                           | Hard       ||
