@@ -62,7 +62,7 @@
 
 ---
 
-# Step 4: Binary Search (6/32)
+# Step 4: Binary Search (11/32)
 
 ## Lec 1: BS on 1D Arrays (3/13)
 
