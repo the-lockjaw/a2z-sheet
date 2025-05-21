@@ -4,8 +4,8 @@
 | Step | Topic                                       | Questions|
 |------|---------------------------------------------|----------|
 | 3    | [Arrays](#step-3--arrays-4040)              | 40       |
-| 4    | [Binary Search](#step-4-binary-search-1132) | 11       |
-|      | TOTAL                                       | 51       |
+| 4    | [Binary Search](#step-4-binary-search-1132) | 22       |
+|      | TOTAL                                       | 62       |
 
 ---
 
@@ -67,39 +67,39 @@
 
 ---
 
-# Step 4: Binary Search (11/32)
+# Step 4: Binary Search (22/32)
 
-## Lec 1: BS on 1D Arrays (3/13)
+## Lec 1: BS on 1D Arrays (8/13)
 
-| S No | Problem                                                                 | Difficulty | Solution |
-|------|-------------------------------------------------------------------------|------------|----------|
-| 1    | Binary Search to find X in sorted array                                 | Easy       |[File](04_Binary_Search/0_Easy/01_bs.cpp)|
-| 2    | Implement Lower Bound                                                   | Easy       |[File](04_Binary_Search/0_Easy/02_lower_bound.cpp)|
-| 3    | Implement Upper Bound                                                   | Easy       |[File](04_Binary_Search/0_Easy/03_upper_bound.cpp)|
-| 4    | Search Insert Position                                                  | Easy       ||
-| 5    | Floor/Ceil in Sorted Array                                              | Medium     ||
-| 6    | Find the first or last occurrence of a given number in a sorted array   | Easy       ||
-| 7    | Count occurrences of a number in a sorted array with duplicates         | Easy       ||
-| 8    | Search in Rotated Sorted Array I                                        | Medium     ||
-| 9    | Search in Rotated Sorted Array II                                       | Medium     ||
-| 10   | Find minimum in Rotated Sorted Array                                    | Medium     ||
-| 11   | Find out how many times has an array been rotated                       | Easy       ||
-| 12   | Single element in a Sorted Array                                        | Easy       ||
-| 13   | Find peak element                                                       | Hard       ||
+| S No | Problem                                              | Difficulty | Solution |
+|------|------------------------------------------------------|------------|----------|
+| 1    | Binary Search to find X in sorted array              | Easy       | [File](04_Binary_Search/0_Easy/01_bs.cpp)|
+| 2    | Implement Lower Bound                                | Easy       | [File](04_Binary_Search/0_Easy/02_lower_bound.cpp)|
+| 3    | Implement Upper Bound                                | Easy       | [File](04_Binary_Search/0_Easy/03_upper_bound.cpp)|
+| 4    | Search Insert Position                               | Easy       | [File](04_Binary_Search/0_1D_Arrays/04_search_insert_position.cpp) |
+| 5    | Floor/Ceil in Sorted Array                           | Medium     | [File](04_Binary_Search/0_1D_Arrays/05_floor_n_ceil.cpp) |
+| 6    | First or last occurrence of number in sorted array   | Easy       | [File](04_Binary_Search/0_1D_Arrays/06_first_n_last_occurence.cpp) |
+| 7    | Count occurrences of a number in a sorted array      | Easy       | [File](04_Binary_Search/0_1D_Arrays/07_count_occurences.cpp) |
+| 8    | Search in Rotated Sorted Array I                     | Medium     | [File](04_Binary_Search/0_1D_Arrays/08_search_rotated_array.cpp) |
+| 9    | Search in Rotated Sorted Array II                    | Medium     ||
+| 10   | Find minimum in Rotated Sorted Array                 | Medium     ||
+| 11   | Find out how many times has an array been rotated    | Easy       ||
+| 12   | Single element in a Sorted Array                     | Easy       ||
+| 13   | Find peak element                                    | Hard       ||
 
-## Lec 2: BS on Answers (3/14)
+## Lec 2: BS on Answers (9/14)
 
 | S No | Problem                                          | Difficulty | Solution |
 |------|--------------------------------------------------|------------|----------|
-| 1   | Find square root of a number in log n             | Medium |[File](04_Binary_Search/1_Medium/01_binary_sqrt.cpp)|
-| 2   | Find the Nth root of a number using binary search | Medium |[File](04_Binary_Search/1_Medium/02_nth_root.cpp)|
-| 3   | Koko Eating Bananas                               | Hard   |[File](04_Binary_Search/1_Medium/03_koko_eating_bananas.cpp)|
-| 4   | Minimum days to make M bouquets                   | Hard   ||
-| 5   | Find the smallest Divisor                         | Easy   ||
-| 6   | Capacity to Ship Packages within D Days           | Hard   ||
-| 7   | Kth Missing Positive Number                       | Easy   ||
-| 8   | Aggressive Cows                                   | Hard   ||
-| 9   | Book Allocation Problem                           | Hard   ||
+| 1   | Find square root of a number in log n             | Medium | [File](04_Binary_Search/1_Medium/01_binary_sqrt.cpp) |
+| 2   | Find the Nth root of a number using binary search | Medium | [File](04_Binary_Search/1_Medium/02_nth_root.cpp) |
+| 3   | Koko Eating Bananas                               | Hard   | [File](04_Binary_Search/1_Medium/03_koko_eating_bananas.cpp) |
+| 4   | Minimum days to make M bouquets                   | Hard   | [File](04_Binary_Search/1_On_Answer/04_min_days_for_bouquets.cpp) |
+| 5   | Find the smallest Divisor                         | Easy   | [File](04_Binary_Search/1_On_Answer/05_smallest_divisor.cpp) |
+| 6   | Capacity to Ship Packages within D Days           | Hard   | [File](04_Binary_Search/1_On_Answer/06_capacity_to_ship.cpp) |
+| 7   | Kth Missing Positive Number                       | Easy   | [File](04_Binary_Search/1_On_Answer/07_kth_missing_number.cpp) |
+| 8   | Aggressive Cows                                   | Hard   | [File](04_Binary_Search/1_On_Answer/08_aggressive_cows.cpp) |
+| 9   | Book Allocation Problem                           | Hard   | [File](04_Binary_Search/1_On_Answer/09_book_allocation.cpp) |
 | 10  | Split array – Largest Sum                         | Hard   ||
 | 11  | Painter’s partition                               | Hard   ||
 | 12  | Minimize Max Distance to Gas Station              | Hard   ||
