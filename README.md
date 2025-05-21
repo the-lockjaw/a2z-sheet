@@ -1,6 +1,11 @@
 # Striver's A2Z DSA Sheet
 
-### 51/455
+## Contents
+| Step | Topic                                       | Questions|
+|------|---------------------------------------------|----------|
+| 3    | [Arrays](#step-3--arrays-4040)              | 40       |
+| 4    | [Binary Search](#step-4-binary-search-1132) | 11       |
+|      | TOTAL                                       | 51       |
 
 ---
 
