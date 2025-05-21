@@ -13,16 +13,16 @@
 | 2    | Second Largest Element in an Array w/o Sorting       | Easy       | [File](03_Arrays/0_Easy/02_second_largest.cpp)               |
 | 3    | Check if the array is sorted                         | Easy       | [File](03_Arrays/0_Easy/03_check_sorted.cpp)                 |
 | 4    | Remove Duplicates from Sorted Array                  | Easy       | [File](03_Arrays/0_Easy/04_remove_duplicates.cpp)            |
-| 5    | Left Rotate an array by one place                    | Easy       | [File](03_Arrays/0_Easy/05_left_rotate_once.cpp)             |
-| 6    | Left rotate an array by D places                     | Easy       | [File](03_Arrays/0_Easy/06_left_rotate_d_places.cpp)         |
+| 5    | Left Rotate an array by one place                    | Easy       | [File](03_Arrays/0_Easy/05_&_06_rotate_array.cpp)            |
+| 6    | Left rotate an array by D places                     | Easy       | [File](03_Arrays/0_Easy/05_&_06_rotate_array.cpp)            |
 | 7    | Move Zeroes to end                                   | Easy       | [File](03_Arrays/0_Easy/07_move_zeroes.cpp)                  |
-| 8    | Linear Search                                        | Easy       | too ez                                                       |
-| 9    | Find the Union                                       | Medium     | too ez                                                       |
-| 10   | Find missing number in an array                      | Easy       | too ez                                                       |
-| 11   | Maximum Consecutive Ones                             | Easy       | too ez                                                       |
-| 12   | Find number occurring once, others twice             | Medium     | too ez                                                       |
-| 13   | Longest subarray with sum K (positives)              | Medium     | too ez                                                       |
-| 14   | Longest subarray with sum K (positives + negatives)  | Medium     | DO THIS!                                                     |
+| 8    | Linear Search                                        | Easy       | [File](03_Arrays/0_Easy/08_linear_search.cpp)                |
+| 9    | Find the Union                                       | Medium     | [File](03_Arrays/0_Easy/09_find_union.cpp)                   |
+| 10   | Find missing number in an array                      | Easy       | [File](03_Arrays/0_Easy/10_missing_number.cpp)               |
+| 11   | Maximum Consecutive Ones                             | Easy       | [File](03_Arrays/0_Easy/11_max_consecutive_ones.cpp)         |
+| 12   | Find number occurring once, others twice             | Medium     | [File](03_Arrays/0_Easy/12_single_number.cpp)                |
+| 13   | Longest subarray with sum K (positives)              | Medium     | [File](03_Arrays/0_Easy/13_longest_k_sum.cpp)                |
+| 14   | Longest subarray with sum K (positives + negatives)  | Medium     | [File](03_Arrays/0_Easy/14_longest_k_sum_w_neg.cpp)          |
 
 
 ## Lec 2 : Medium (14/14)
@@ -39,9 +39,9 @@
 | 9    | Leaders in Array                                     | Easy       | [File](03_Arrays/1_Medium/09_leader.cpp)                     |
 | 10   | Longest Consecutive Sequence                         | Medium     | [File](03_Arrays/1_Medium/10_longest_seq.cpp)                |
 | 11   | Set Matrix Zeroes                                    | Medium     | [File](03_Arrays/1_Medium/11_set_zeroes.cpp)                 |
-| 12   | Rotate Matrix by 90 degrees                          | Medium     | DO THIS!                                                     |
-| 13   | Print the matrix in spiral manner                    | Medium     | DO THIS!                                                     |
-| 14   | Count subarrays with given sum                       | Easy       | DO THIS!                                                     |
+| 12   | Rotate Matrix by 90 degrees                          | Medium     | [File](03_Arrays/1_Medium/12_rotate_image.cpp)               |
+| 13   | Print the matrix in spiral manner                    | Medium     | [File](03_Arrays/1_Medium/13_spiral_matrix.cpp)              |
+| 14   | Count subarrays with given sum                       | Easy       | [File](03_Arrays/1_Medium/14_subarrays_k_sum.cpp)            |
 
 
 ## Lec 3 : Hard (12/12)
