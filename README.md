@@ -4,8 +4,8 @@
 | Step | Topic                                       | Questions|
 |------|---------------------------------------------|----------|
 | 3    | [Arrays](#step-3--arrays-4040)              | 40       |
-| 4    | [Binary Search](#step-4-binary-search-1132) | 22       |
-|      | TOTAL                                       | 62       |
+| 4    | [Binary Search](#step-4-binary-search-1132) | 27       |
+|      | TOTAL                                       | 67       |
 
 ---
 
@@ -67,9 +67,9 @@
 
 ---
 
-# Step 4: Binary Search (22/32)
+# Step 4: Binary Search (27/32)
 
-## Lec 1: BS on 1D Arrays (8/13)
+## Lec 1: BS on 1D Arrays (13/13)
 
 | S No | Problem                                              | Difficulty | Solution |
 |------|------------------------------------------------------|------------|----------|
