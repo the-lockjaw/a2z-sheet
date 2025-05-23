@@ -81,11 +81,11 @@
 | 6    | First or last occurrence of number in sorted array   | Easy       | [File](04_Binary_Search/0_1D_Arrays/06_first_n_last_occurence.cpp) |
 | 7    | Count occurrences of a number in a sorted array      | Easy       | [File](04_Binary_Search/0_1D_Arrays/07_count_occurences.cpp) |
 | 8    | Search in Rotated Sorted Array I                     | Medium     | [File](04_Binary_Search/0_1D_Arrays/08_search_rotated_array.cpp) |
-| 9    | Search in Rotated Sorted Array II                    | Medium     ||
-| 10   | Find minimum in Rotated Sorted Array                 | Medium     ||
-| 11   | Find out how many times has an array been rotated    | Easy       ||
-| 12   | Single element in a Sorted Array                     | Easy       ||
-| 13   | Find peak element                                    | Hard       ||
+| 9    | Search in Rotated Sorted Array II                    | Medium     | [File](04_Binary_Search/0_1D_Arrays/09_search_rotated_array_II.cpp) |
+| 10   | Find minimum in Rotated Sorted Array                 | Medium     | [File](04_Binary_Search/0_1D_Arrays/10_min_in_rotated_sorted_array.cpp) |
+| 11   | Find out how many times has an array been rotated    | Easy       | [File](04_Binary_Search/0_1D_Arrays/11_number_of_array_rotations.cpp) |
+| 12   | Single element in a Sorted Array                     | Easy       | [File](04_Binary_Search/0_1D_Arrays/12_single_element_in_sorted_array.cpp) |
+| 13   | Find peak element                                    | Hard       | [File](04_Binary_Search/0_1D_Arrays/13_peak_element.cpp) |
 
 ## Lec 2: BS on Answers (9/14)
 
