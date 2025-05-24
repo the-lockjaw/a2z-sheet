@@ -107,13 +107,13 @@
 ## Lec 1 : Basic & Easy String Problems
 | S No | Problem                                            | Difficulty | Solution   |
 | ---- | -------------------------------------------------- | ---------- | ---------- |
-| 1    | Remove outermost Parenthesis                       | Easy       | [File](05_Strings_I/0_Easy) |
-| 2    | Reverse words in a given string / Palindrome Check | Easy       | [File](05_Strings_I/0_Easy) |
-| 3    | Largest odd number in a string                     | Easy       | [File](05_Strings_I/0_Easy) |
-| 4    | Longest Common Prefix                              | Easy       | [File](05_Strings_I/0_Easy) |
-| 5    | Isomorphic String                                  | Easy       | [File](05_Strings_I/0_Easy) |
-| 6    | Check whether one string is a rotation of another  | Medium     | [File](05_Strings_I/0_Easy) |
-| 7    | Check if two strings are anagram of each other     | Medium     | [File](05_Strings_I/0_Easy) |
+| 1    | Remove outermost Parenthesis                       | Easy       | [File](05_Strings_I/0_Easy/01_remove_parens.cpp) |
+| 2    | Reverse words in a given string / Palindrome Check | Easy       | [File](05_Strings_I/0_Easy/02_reverse_words.cpp) |
+| 3    | Largest odd number in a string                     | Easy       | [File](05_Strings_I/0_Easy/03_largest_odd_in_string.cpp) |
+| 4    | Longest Common Prefix                              | Easy       | [File](05_Strings_I/0_Easy/04_longest_common_prefix.cpp) |
+| 5    | Isomorphic String                                  | Easy       | [File](05_Strings_I/0_Easy/05_isomorphic_string.cpp) |
+| 6    | Check whether one string is a rotation of another  | Medium     | [File](05_Strings_I/0_Easy/06_rotate_string.cpp) |
+| 7    | Check if two strings are anagram of each other     | Medium     | [File](05_Strings_I/0_Easy/07_anagram.cpp) |
 ## Lec 2 : Medium String Problems
 | S No | Problem                                           | Difficulty | Solution   |
 | ---- | ------------------------------------------------- | ---------- | ---------- |
