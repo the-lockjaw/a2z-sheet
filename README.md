@@ -103,3 +103,25 @@
 | 3    | Search in a row and column wise sorted matrix | Medium     | [File](04_Binary_Search/2_2D_Arrays/03_Search_in_2d_matrix_II.cpp) |
 | 4    | Find Peak Element (2D Matrix)                 | Hard       | [File](04_Binary_Search/2_2D_Arrays/04_find_peak_2.cpp) |
 | 5    | Matrix Median                                 | Hard       | [File](04_Binary_Search/2_2D_Arrays/05_median_in_2d.cpp) |
+# Step 4 : Strings I (0/15)
+## Lec 1 : Basic & Easy String Problems
+| S No | Problem                                            | Difficulty | Solution   |
+| ---- | -------------------------------------------------- | ---------- | ---------- |
+| 1    | Remove outermost Parenthesis                       | Easy       | [File](05_Strings_I/0_Easy) |
+| 2    | Reverse words in a given string / Palindrome Check | Easy       | [File](05_Strings_I/0_Easy) |
+| 3    | Largest odd number in a string                     | Easy       | [File](05_Strings_I/0_Easy) |
+| 4    | Longest Common Prefix                              | Easy       | [File](05_Strings_I/0_Easy) |
+| 5    | Isomorphic String                                  | Easy       | [File](05_Strings_I/0_Easy) |
+| 6    | Check whether one string is a rotation of another  | Medium     | [File](05_Strings_I/0_Easy) |
+| 7    | Check if two strings are anagram of each other     | Medium     | [File](05_Strings_I/0_Easy) |
+## Lec 2 : Medium String Problems
+| S No | Problem                                           | Difficulty | Solution   |
+| ---- | ------------------------------------------------- | ---------- | ---------- |
+| 1    | Sort Characters by frequency                      | Easy       | [File](05_Strings_I/1_Medium) |
+| 2    | Maximum Nesting Depth of Parenthesis              | Easy       | [File](05_Strings_I/1_Medium) |
+| 3    | Roman Number to Integer and vice versa            | Easy       | [File](05_Strings_I/1_Medium) |
+| 4    | Implement Atoi                                    | Medium     | [File](05_Strings_I/1_Medium) |
+| 5    | Count Number of Substrings                        | Medium     | [File](05_Strings_I/1_Medium) |
+| 6    | Longest Palindromic Substring \[Do it without DP] | Hard       | [File](05_Strings_I/1_Medium) |
+| 7    | Sum of Beauty of all substring                    | Medium     | [File](05_Strings_I/1_Medium) |
+| 8    | Reverse Every Word in A String                    | Easy       | [File](05_Strings_I/1_Medium) |
