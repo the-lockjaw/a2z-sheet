@@ -5,7 +5,8 @@
 |------|---------------------------------------------|----------|
 | 3    | [Arrays](#step-3--arrays-4040)              | 40       |
 | 4    | [Binary Search](#step-4-binary-search-1132) | 32       |
-|      | TOTAL                                       | 72       |
+| 5    | [Strings 1](#step-5--strings-i-015)         | 7        |
+|      | TOTAL                                       | 79       |
 
 ---
 
@@ -103,7 +104,7 @@
 | 3    | Search in a row and column wise sorted matrix | Medium     | [File](04_Binary_Search/2_2D_Arrays/03_Search_in_2d_matrix_II.cpp) |
 | 4    | Find Peak Element (2D Matrix)                 | Hard       | [File](04_Binary_Search/2_2D_Arrays/04_find_peak_2.cpp) |
 | 5    | Matrix Median                                 | Hard       | [File](04_Binary_Search/2_2D_Arrays/05_median_in_2d.cpp) |
-# Step 4 : Strings I (0/15)
+# Step 5 : Strings I (0/15)
 ## Lec 1 : Basic & Easy String Problems
 | S No | Problem                                            | Difficulty | Solution   |
 | ---- | -------------------------------------------------- | ---------- | ---------- |
