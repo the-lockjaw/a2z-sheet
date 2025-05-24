@@ -4,13 +4,12 @@
 | Step | Topic                                       | Questions|
 |------|---------------------------------------------|----------|
 | 3    | [Arrays](#step-3--arrays-4040)              | 40       |
-| 4    | [Binary Search](#step-4-binary-search-1132) | 27       |
-|      | TOTAL                                       | 67       |
+| 4    | [Binary Search](#step-4-binary-search-1132) | 32       |
+|      | TOTAL                                       | 72       |
 
 ---
 
 # Step 3 : Arrays (40/40)
-
 ## Lec 1 : Easy (14/14)
 | S No | Problem                                              | Difficulty | Solution                                                     |
 |------|------------------------------------------------------|------------|--------------------------------------------------------------|
@@ -28,8 +27,6 @@
 | 12   | Find number occurring once, others twice             | Medium     | [File](03_Arrays/0_Easy/12_single_number.cpp)                |
 | 13   | Longest subarray with sum K (positives)              | Medium     | [File](03_Arrays/0_Easy/13_longest_k_sum.cpp)                |
 | 14   | Longest subarray with sum K (positives + negatives)  | Medium     | [File](03_Arrays/0_Easy/14_longest_k_sum_w_neg.cpp)          |
-
-
 ## Lec 2 : Medium (14/14)
 | S No | Problem                                              | Difficulty | Solution                                                     |
 |------|------------------------------------------------------|------------|--------------------------------------------------------------|
@@ -47,8 +44,6 @@
 | 12   | Rotate Matrix by 90 degrees                          | Medium     | [File](03_Arrays/1_Medium/12_rotate_image.cpp)               |
 | 13   | Print the matrix in spiral manner                    | Medium     | [File](03_Arrays/1_Medium/13_spiral_matrix.cpp)              |
 | 14   | Count subarrays with given sum                       | Easy       | [File](03_Arrays/1_Medium/14_subarrays_k_sum.cpp)            |
-
-
 ## Lec 3 : Hard (12/12)
 | S No | Problem                                              | Difficulty | Solution                                                     |
 |------|------------------------------------------------------|------------|--------------------------------------------------------------|
@@ -66,11 +61,8 @@
 | 12   | Max Product Subarray                                 | Medium     | [File](03_Arrays/2_Hard/12_max_product_subarray.cpp)         |
 
 ---
-
-# Step 4: Binary Search (27/32)
-
+# Step 4: Binary Search (32/32)
 ## Lec 1: BS on 1D Arrays (13/13)
-
 | S No | Problem                                              | Difficulty | Solution |
 |------|------------------------------------------------------|------------|----------|
 | 1    | Binary Search to find X in sorted array              | Easy       | [File](04_Binary_Search/0_Easy/01_bs.cpp)|
@@ -86,9 +78,7 @@
 | 11   | Find out how many times has an array been rotated    | Easy       | [File](04_Binary_Search/0_1D_Arrays/11_number_of_array_rotations.cpp) |
 | 12   | Single element in a Sorted Array                     | Easy       | [File](04_Binary_Search/0_1D_Arrays/12_single_element_in_sorted_array.cpp) |
 | 13   | Find peak element                                    | Hard       | [File](04_Binary_Search/0_1D_Arrays/13_peak_element.cpp) |
-
-## Lec 2: BS on Answers (9/14)
-
+## Lec 2: BS on Answers (14/14)
 | S No | Problem                                          | Difficulty | Solution |
 |------|--------------------------------------------------|------------|----------|
 | 1   | Find square root of a number in log n             | Medium | [File](04_Binary_Search/1_Medium/01_binary_sqrt.cpp) |
@@ -100,14 +90,12 @@
 | 7   | Kth Missing Positive Number                       | Easy   | [File](04_Binary_Search/1_On_Answer/07_kth_missing_number.cpp) |
 | 8   | Aggressive Cows                                   | Hard   | [File](04_Binary_Search/1_On_Answer/08_aggressive_cows.cpp) |
 | 9   | Book Allocation Problem                           | Hard   | [File](04_Binary_Search/1_On_Answer/09_book_allocation.cpp) |
-| 10  | Split array – Largest Sum                         | Hard   ||
-| 11  | Painter’s partition                               | Hard   ||
-| 12  | Minimize Max Distance to Gas Station              | Hard   ||
-| 13  | Median of 2 sorted arrays                         | Hard   ||
-| 14  | Kth element of 2 sorted arrays                    | Medium ||
-
+| 10  | Split array – Largest Sum                         | Hard   | [File](04_Binary_Search/1_On_Answer/10_split_arrays_largest_sum.cpp) |
+| 11  | Painter’s partition                               | Hard   | [File](04_Binary_Search/1_On_Answer/11_painters_partition.cpp) |
+| 12  | Minimize Max Distance to Gas Station              | Hard   | [File](04_Binary_Search/1_On_Answer/12_gas_station.cpp) |
+| 13  | Median of 2 sorted arrays                         | Hard   | [File](04_Binary_Search/1_On_Answer/13_median_sorted_arrays.cpp) |
+| 14  | Kth element of 2 sorted arrays                    | Medium | [File](04_Binary_Search/1_On_Answer/14_kth_in_2_sorted_arrays.cpp) |
 ## Lec 3: BS on 2D Arrays (5/5)
-
 | S No | Problem                                       | Difficulty | Solution |
 |------|-----------------------------------------------|------------|----------|
 | 1    | Find the row with maximum number of 1’s       | Easy       | [File](04_Binary_Search/2_2D_Arrays/01_max_1s_in_one_row.cpp) |
