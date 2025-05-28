@@ -1,13 +1,13 @@
 # Striver's A2Z DSA Sheet
 
 ## Contents
-| Step | Topic                                       | Questions|
-|------|---------------------------------------------|----------|
-| 3    | [Arrays](#step-3--arrays-4040)              | 40       |
-| 4    | [Binary Search](#step-4-binary-search-1132) | 32       |
-| 5    | [Strings 1](#step-5--strings-i-015)         | 15       |
-| 6    | [Linked Lists](#step-6--linked-lists-431)   | 10       |
-|      | TOTAL                                       | 97       |
+| Step | Topic                                       | Questions |
+|------|---------------------------------------------|-----------|
+| 3    | [Arrays](#step-3--arrays-4040)              | 40        |
+| 4    | [Binary Search](#step-4-binary-search-1132) | 32        |
+| 5    | [Strings 1](#step-5--strings-i-015)         | 15        |
+| 6    | [Linked Lists](#step-6--linked-lists-431)   | 10        |
+|      | TOTAL                                       | 97        |
 
 ---
 
@@ -146,23 +146,23 @@
 | 4    | Find length of LL                                 | Medium     | [File](06_Linked_Lists/02_Learn_DLL/dll.cpp) |
 | 5    | Search an element in LL                           | Medium     | [File](06_Linked_Lists/02_Learn_DLL/dll.cpp) |
 ## Lec 3 : Medium Problems of LL (1/15)
-| S No | Problem                             | Difficulty | Solution   |
-|------|-------------------------------------|------------|------------|
-| 1    | Middle of LL (Tortoise-Hare Method)     | Easy   | [File](06_Linked_Lists/03_Medium_LL/01_middle_of_ll.cpp) |
-| 2    | Reverse LL (Iterative)                  | Easy   | [File](06_Linked_Lists/03_Medium_LL/) |
-| 3    | Reverse LL (Recursive)                  | Easy   | [File](06_Linked_Lists/03_Medium_LL/) |
-| 4    | Detect a loop in LL                     | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
-| 5    | Find the starting point in LL           | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
-| 6    | Length of Loop in LL                    | Easy   | [File](06_Linked_Lists/03_Medium_LL/) |
-| 7    | Check if LL is palindrome or not        | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
-| 8    | Segregate odd and even nodes in LL      | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
-| 9    | Remove Nth node from the back of the LL | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
-| 10   | Delete the middle node of LL            | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
-| 11   | Sort LL                                 | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
-| 12   | Sort LL of 0,1,2 by changing links      | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
-| 13   | Find the intersection point of Y LL     | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
-| 14   | Add 1 to a number represented by LL     | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
-| 15   | Add 2 numbers in LL                     | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
+| S No | Problem                             | Diff   | Solution   |
+|------|-------------------------------------|--------|------------|
+| 1    | Middle of LL (Tortoise-Hare Method) | Easy   | [File](06_Linked_Lists/03_Medium_LL/01_middle_of_ll.cpp) |
+| 2    | Reverse LL (Iterative)              | Easy   | [File](06_Linked_Lists/03_Medium_LL/) |
+| 3    | Reverse LL (Recursive)              | Easy   | [File](06_Linked_Lists/03_Medium_LL/) |
+| 4    | Detect a loop in LL                 | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
+| 5    | Find the starting point in LL       | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
+| 6    | Length of Loop in LL                | Easy   | [File](06_Linked_Lists/03_Medium_LL/) |
+| 7    | Check if LL is palindrome or not    | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
+| 8    | Segregate odd and even nodes in LL  | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
+| 9    | Remove Nth node from the back       | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
+| 10   | Delete the middle node of LL        | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
+| 11   | Sort LL                             | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
+| 12   | Sort LL of 0,1,2 by changing links  | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
+| 13   | Find the intersection point of Y LL | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
+| 14   | Add 1 to a number represented by LL | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
+| 15   | Add 2 numbers in LL                 | Medium | [File](06_Linked_Lists/03_Medium_LL/) |
 
 ## Lec 4 : Medium Problems of DLL
 ## Lec 5 : Hard Problems of LL
