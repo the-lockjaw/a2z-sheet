@@ -5,8 +5,9 @@
 |------|---------------------------------------------|----------|
 | 3    | [Arrays](#step-3--arrays-4040)              | 40       |
 | 4    | [Binary Search](#step-4-binary-search-1132) | 32       |
-| 5    | [Strings 1](#step-5--strings-i-015)         | 7        |
-|      | TOTAL                                       | 79       |
+| 5    | [Strings 1](#step-5--strings-i-015)         | 15       |
+| 6    | [Linked Lists](#step-6--linked-lists-431)   |  4       |
+|      | TOTAL                                       | 91       |
 
 ---
 
@@ -104,7 +105,7 @@
 | 3    | Search in a row and column wise sorted matrix | Medium     | [File](04_Binary_Search/2_2D_Arrays/03_Search_in_2d_matrix_II.cpp) |
 | 4    | Find Peak Element (2D Matrix)                 | Hard       | [File](04_Binary_Search/2_2D_Arrays/04_find_peak_2.cpp) |
 | 5    | Matrix Median                                 | Hard       | [File](04_Binary_Search/2_2D_Arrays/05_median_in_2d.cpp) |
-# Step 5 : Strings I (7/15)
+# Step 5 : Strings I (15/15)
 ## Lec 1 : Basic & Easy String Problems (7/7)
 | S No | Problem                                            | Difficulty | Solution   |
 | ---- | -------------------------------------------------- | ---------- | ---------- |
@@ -115,14 +116,35 @@
 | 5    | Isomorphic String                                  | Easy       | [File](05_Strings_I/0_Easy/05_isomorphic_string.cpp) |
 | 6    | Check whether one string is a rotation of another  | Medium     | [File](05_Strings_I/0_Easy/06_rotate_string.cpp) |
 | 7    | Check if two strings are anagram of each other     | Medium     | [File](05_Strings_I/0_Easy/07_anagram.cpp) |
-## Lec 2 : Medium String Problems (0/8)
+## Lec 2 : Medium String Problems (8/8)
 | S No | Problem                                           | Difficulty | Solution   |
 | ---- | ------------------------------------------------- | ---------- | ---------- |
-| 1    | Sort Characters by frequency                      | Easy       | [File](05_Strings_I/1_Medium) |
-| 2    | Maximum Nesting Depth of Parenthesis              | Easy       | [File](05_Strings_I/1_Medium) |
-| 3    | Roman Number to Integer and vice versa            | Easy       | [File](05_Strings_I/1_Medium) |
-| 4    | Implement Atoi                                    | Medium     | [File](05_Strings_I/1_Medium) |
-| 5    | Count Number of Substrings                        | Medium     | [File](05_Strings_I/1_Medium) |
-| 6    | Longest Palindromic Substring (Do it without DP)  | Hard       | [File](05_Strings_I/1_Medium) |
+| 1    | Sort Characters by frequency                      | Easy       | [File](05_Strings_I/1_Medium/01_sort_characters_by_freq.cpp) |
+| 2    | Maximum Nesting Depth of Parenthesis              | Easy       | [File](05_Strings_I/1_Medium/02_max_parens_Depth.cpp) |
+| 3    | Roman Number to Integer and vice versa            | Easy       | [File](05_Strings_I/1_Medium/03_roman_to_int.cpp) |
+| 4    | Implement Atoi                                    | Medium     | [File](05_Strings_I/1_Medium/04_atoi.cpp) |
+| 5    | Count Number of Substrings                        | Medium     | - |
+| 6    | Longest Palindromic Substring (Do it without DP)  | Hard       | [File](05_Strings_I/1_Medium/06_longest_palindrome_substr.cpp) |
 | 7    | Sum of Beauty of all substring                    | Medium     | [File](05_Strings_I/1_Medium) |
-| 8    | Reverse Every Word in A String                    | Easy       | [File](05_Strings_I/1_Medium) |
+| 8    | Reverse Every Word in A String                    | Easy       | [File](05_Strings_I/1_Medium/08_reverse_words.cpp) |
+
+# Step 6 : Linked Lists (4/31)
+## Lec 1 : Learn Linked Lists
+| S No | Problem                                           | Difficulty | Solution   |
+| ---- | ------------------------------------------------- | ---------- | ---------- |
+| 1    | Intro to LL                                       | Easy       | [File](06_Linked_Lists/01_Learn_LL/ll.cpp) |
+| 2    | Inserting a node in LL                            | Easy       | [File](06_Linked_Lists/01_Learn_LL/ll.cpp) |
+| 3    | Deleting a node in LL                             | Easy       | [File](06_Linked_Lists/01_Learn_LL/ll.cpp) |
+| 4    | Find length of LL                                 | Medium     | [File](06_Linked_Lists/01_Learn_LL/ll.cpp) |
+| 5    | Search an element in LL                           | Medium     | [File](06_Linked_Lists/01_Learn_LL/ll.cpp) |
+## Lec 2 : Learn Doubly Linked Lists
+| S No | Problem                                           | Difficulty | Solution   |
+| ---- | ------------------------------------------------- | ---------- | ---------- |
+| 1    | Intro to LL                                       | Easy       |  |
+| 2    | Inserting a node in LL                            | Easy       |  |
+| 3    | Deleting a node in LL                             | Easy       |  |
+| 4    | Find length of LL                                 | Medium     |  |
+| 5    | Search an element in LL                           | Medium     |  |
+## Lec 3 : Medium Problems of LL
+## Lec 4 : Medium Problems of DLL
+## Lec 5 : Hard Problems of LL
