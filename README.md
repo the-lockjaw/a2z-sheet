@@ -3,11 +3,14 @@
 ## Contents
 | Step | Topic                                       | Questions |
 |------|---------------------------------------------|-----------|
+| 1    | Basics                                      | 22        |
+| 2    | Sorting Techniques                          | 7         |
 | 3    | [Arrays](#step-3--arrays-4040)              | 40        |
 | 4    | [Binary Search](#step-4-binary-search-1132) | 32        |
 | 5    | [Strings 1](#step-5--strings-i-015)         | 15        |
 | 6    | [Linked Lists](#step-6--linked-lists-431)   | 10        |
-|      | TOTAL                                       | 97        |
+| 15   | [Graphs](#step-15--graphs-1515)             | 20        |
+|      | TOTAL                                       | 182       |
 
 ---
 
@@ -127,7 +130,6 @@
 | 6    | Longest Palindromic Substring (Do it without DP)  | Hard       | [File](05_Strings_I/1_Medium/06_longest_palindrome_substr.cpp) |
 | 7    | Sum of Beauty of all substring                    | Medium     | [File](05_Strings_I/1_Medium) |
 | 8    | Reverse Every Word in A String                    | Easy       | [File](05_Strings_I/1_Medium/08_reverse_words.cpp) |
-
 # Step 6 : Linked Lists (4/31)
 ## Lec 1 : Learn Linked Lists (5/5) 
 | S No | Problem                                           | Difficulty | Solution   |
@@ -166,3 +168,22 @@
 
 ## Lec 4 : Medium Problems of DLL
 ## Lec 5 : Hard Problems of LL
+# Step 15 : Graphs (15/15)
+## Lec 2 : Problems on BFS/DFS (14/14)
+| S No | Problem                              | Difficulty | Solution   |
+| ---- | ------------------------------------ | ---------- | ---------- |
+| 1    | Number of Provinces                  | Medium     | [File](15_Graphs/01_BFS_DFS/01_provinces.cpp)   |
+| 2    | Number of Provinces (Adjacency Matrix)| Hard      | same as previous   |
+| 3    | Rotten Oranges                       | Medium     | [File](15_Graphs/01_BFS_DFS/03_rotten_oranges.cpp)|
+| 4    | Flood Fill                           | Hard       | [File](15_Graphs/01_BFS_DFS/04_flood_fill.cpp)|
+| 5    | Cycle Detection in Graph (BFS)       | Hard       | [File](15_Graphs/01_BFS_DFS/05_cycle_detect_bfs.cpp)|
+| 6    | Cycle Detection in Graph (DFS)       | Hard       | [File](15_Graphs/01_BFS_DFS/06_cycle_detect_dfs.cpp)|
+| 7    | Shortest Distance from 0 in Binary Grid | Medium  | [File](15_Graphs/01_BFS_DFS/07_01_matrix.cpp)|
+| 8    | Surrounded Regions                   | Hard       | [File](15_Graphs/01_BFS_DFS/08_surr_regions.cpp)|
+| 9    | True Enclaves                        | Hard       | [File](15_Graphs/01_BFS_DFS/09_enclaves.cpp)|
+| 10   | Word Ladder 1                        | Hard       | [File](15_Graphs/01_BFS_DFS/10_word_ladder_1.cpp)|
+| 11   | Word Ladder 2                        | Hard       | [File](15_Graphs/01_BFS_DFS/11_word_ladder_2.cpp)|
+| 12   | Distinct Islands                     | Hard       | [File](15_Graphs/01_BFS_DFS/12_distinct_islands.cpp)|
+| 13   | Bipartite Graph                      | Medium     | [File](15_Graphs/01_BFS_DFS/13_bipartite_graph.cpp)|
+| 14   | Cycle Detection in Directed Graph    | Hard       | [File](15_Graphs/01_BFS_DFS/14_multi_detect_cycle.cpp)|
+
