@@ -186,4 +186,13 @@
 | 12   | Distinct Islands                     | Hard       | [File](15_Graphs/01_BFS_DFS/12_distinct_islands.cpp)|
 | 13   | Bipartite Graph                      | Medium     | [File](15_Graphs/01_BFS_DFS/13_bipartite_graph.cpp)|
 | 14   | Cycle Detection in Directed Graph    | Hard       | [File](15_Graphs/01_BFS_DFS/14_multi_detect_cycle.cpp)|
-
+## Lec 3 : Topological Sort (0/7)
+| S No | Problem                              | Difficulty | Solution   |
+| ---- | ------------------------------------ | ---------- | ---------- |
+| 1    | Topo Sort                            | Hard       | [File](15_Graphs/02_Topo_Sort/01_topo_sort.cpp) |
+| 2    | Kahn's Algorithm                     | Hard       | [File](15_Graphs/02_Topo_Sort/02_kahn.cpp) |
+| 3    | Cycle Detection in Directed Graph (BFS)  | Hard   | [File](15_Graphs/02_Topo_Sort/03_multi_detect_bfs.cpp) |
+| 4    | Course Schedule - 1                  | Hard       | [File](15_Graphs/02_Topo_Sort/04_schedule_1.cpp) |
+| 5    | Course Schedule - 2                  | Hard       | [File](15_Graphs/02_Topo_Sort/05_schedule_2.cpp) |
+| 6    | Find Eventual Safe States            | Hard       | [File](15_Graphs/02_Topo_Sort/06_safe_states.cpp) |
+| 7    | Alien Dictionary                     | Hard       | [File](15_Graphs/02_Topo_Sort/07_alien_dictionary.cpp) |
