@@ -66,9 +66,7 @@ public:
             {
                 level++;
                 for (auto it : usedOnLevel)
-                {
                     st.erase(it);
-                }
             }
 
             string word = vec.back();
@@ -78,13 +76,9 @@ public:
             {
                 // the first sequence where we reached end
                 if (ans.size() == 0)
-                {
                     ans.push_back(vec);
-                }
                 else if (ans[0].size() == vec.size())
-                {
                     ans.push_back(vec);
-                }
             }
             for (int i = 0; i < word.size(); i++)
             {
