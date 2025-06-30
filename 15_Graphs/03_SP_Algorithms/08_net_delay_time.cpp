@@ -31,30 +31,33 @@ Constraints:
 using namespace std;
 
 int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-    vector<pair<int,int>> adj_list[n + 1];
-    for(auto& a : times)
-        adj_list[a[0]].push_back({a[1], a[2]});
+	// n - number of nodes
+	// k - souce nodes
 
-    vector<int> delay(n + 1, INT_MAX);
-    priority_queue<pair<int,int>, vector<pair<int,int>>, greater<>> pq;
+	vector<pair<int,int>> adj_list[n];
+	for(auto a : times) adj_list[a[0]].push_back({a[1],a[2]});
 
-    pq.push({0, k}); // {delay, node}
-    delay[k] = 0;
+	vector<int> delay(n,INT_MAX);
+	priority_queue<pair<int,int>,vector<pair<int,int>>, greater<>> pq;
 
-    while(!pq.empty()){
-        auto [curr_delay, node] = pq.top();
-        pq.pop();
+	pq.push({k,0});
+	delay[k] = 0;
 
-        for(auto& [adj_node, extra_delay] : adj_list[node]){
-            int total_delay = curr_delay + extra_delay;
-            if(total_delay < delay[adj_node]){
-                delay[adj_node] = total_delay;
-                pq.push({total_delay, adj_node});
-            }
-        }
-    }
+	while(!pq.empty()){
+		auto [node, node_delay] = pq.top();
+		pq.pop();
 
-    int ans = *max_element(delay.begin() + 1, delay.end());
+		for(auto a : adj_list[node]){
+			auto [adj_node, extra_delay] = a;
+			int total_delay = node_delay + extra_delay;
+			if(total_delay<delay[adj_node]){
+				delay[adj_node] = total_delay;
+				pq.push({adj_node,total_delay});
+			}
+		}
+	}
+	
+	int ans = *max_element(delay.begin(),delay.end());
     return ans == INT_MAX ? -1 : ans;
 }
 
