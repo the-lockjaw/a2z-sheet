@@ -9,8 +9,8 @@
 | 4    | [Binary Search](#step-4-binary-search-1132) | 32        |
 | 5    | [Strings 1](#step-5--strings-i-015)         | 15        |
 | 6    | [Linked Lists](#step-6--linked-lists-431)   | 10        |
-| 15   | [Graphs](#step-15--graphs-1515)             | 20        |
-|      | TOTAL                                       | 182       |
+| 15   | [Graphs](#step-15--graphs-1515)             | 40        |
+|      | TOTAL                                       | 202       |
 
 ---
 
@@ -130,7 +130,7 @@
 | 6    | Longest Palindromic Substring (Do it without DP)  | Hard       | [File](05_Strings_I/1_Medium/06_longest_palindrome_substr.cpp) |
 | 7    | Sum of Beauty of all substring                    | Medium     | [File](05_Strings_I/1_Medium) |
 | 8    | Reverse Every Word in A String                    | Easy       | [File](05_Strings_I/1_Medium/08_reverse_words.cpp) |
-# Step 6 : Linked Lists (4/31)
+# Step 6 : Linked Lists (10/31)
 ## Lec 1 : Learn Linked Lists (5/5) 
 | S No | Problem                                           | Difficulty | Solution   |
 | ---- | ------------------------------------------------- | ---------- | ---------- |
@@ -186,7 +186,7 @@
 | 12   | Distinct Islands                     | Hard       | [File](15_Graphs/01_BFS_DFS/12_distinct_islands.cpp)|
 | 13   | Bipartite Graph                      | Medium     | [File](15_Graphs/01_BFS_DFS/13_bipartite_graph.cpp)|
 | 14   | Cycle Detection in Directed Graph    | Hard       | [File](15_Graphs/01_BFS_DFS/14_multi_detect_cycle.cpp)|
-## Lec 3 : Topological Sort (0/7)
+## Lec 3 : Topological Sort (7/7)
 | S No | Problem                              | Difficulty | Solution   |
 | ---- | ------------------------------------ | ---------- | ---------- |
 | 1    | Topo Sort                            | Hard       | [File](15_Graphs/02_Topo_Sort/01_topo_sort.cpp) |
@@ -196,3 +196,39 @@
 | 5    | Course Schedule - 2                  | Hard       | [File](15_Graphs/02_Topo_Sort/05_schedule_2.cpp) |
 | 6    | Find Eventual Safe States            | Hard       | [File](15_Graphs/02_Topo_Sort/06_safe_states.cpp) |
 | 7    | Alien Dictionary                     | Hard       | [File](15_Graphs/02_Topo_Sort/07_alien_dictionary.cpp) |
+## Lec 4 : Shortest Path Algorithms (13/13)
+| S No | Problem                                   | Difficulty | Solution |
+| ---- | ----------------------------------------- | ---------- | -------- |
+| 1    | Shortest Path in UG with unit weights     | Hard       | [File](15_Graphs/03_SP_Algorithms/03_dijkstra.cpp) |
+| 2    | Shortest Path in DAG                      | Hard       | [File](15_Graphs/03_SP_Algorithms/03_dijkstra.cpp) |
+| 3    | Dijkstra's Algorithm                      | Hard       | [File](15_Graphs/03_SP_Algorithms/03_dijkstra.cpp) |
+| 4    | Why priority Queue is used in Dijkstra    | Medium     | [File](15_Graphs/03_SP_Algorithms/03_dijkstra.cpp) |
+| 5    | Shortest path in a binary maze            | Medium     | [File](15_Graphs/03_SP_Algorithms/05_binary_path.cpp) |
+| 6    | Path with minimum effort                  | Medium     | [File](15_Graphs/03_SP_Algorithms/06_min_effort_path.cpp) |
+| 7    | Cheapest flights within k stops           | Hard       | [File](15_Graphs/03_SP_Algorithms/07_k_stops.cpp) |
+| 8    | Network Delay time                        | Medium     | [File](15_Graphs/03_SP_Algorithms/08_net_delay_time.cpp) |
+| 9    | Number of ways to arrive at destination   | Medium     | [File](15_Graphs/03_SP_Algorithms/09_no_of_ways.cpp) |
+| 10   | Multiplication Graph                      | Hard       | [File](15_Graphs/03_SP_Algorithms/10_min_multiplication.cpp) |
+| 11   | Bellman Ford Algorithm                    | Hard       | [File](15_Graphs/03_SP_Algorithms/11_bellman_ford.cpp) |
+| 12   | Floyd Warshal Algorithm                   | Hard       | [File](15_Graphs/03_SP_Algorithms/12_floyd_warshall.cpp) |
+| 13   | City with the min neighbors in threshold  | Hard       | [File](15_Graphs/03_SP_Algorithms/13_cities_in_reach.cpp) |
+## Lec 5 : Shortest Path Algorithms (4/11)
+| S No | Problem                                      | Difficulty | Solution   |
+| ---- | -------------------------------------------- | ---------- | ---------- |
+| 1    | Minimum Spanning Tree                        | Hard       | -          |
+| 2    | Prim's Algorithm                             | Hard       | -          |
+| 3    | Disjoint Set [Union by Rank]                 | Hard       | -          |
+| 4    | Disjoint Set [Union by Size]                 | Hard       | -          |
+| 5    | Kruskal's Algorithm                          | Hard       | -          |
+| 6    | Number of Ops to Make Network Connected      | Medium     | -          |
+| 7    | Most Stones removed w/ Same Rows or Columns  | Medium     | -          |
+| 8    | Accounts Merge                               | Hard       | -          |
+| 9    | Number of Island II                          | Hard       | -          |
+| 10   | Making a Large Island                        | Hard       | -          |
+| 11   | Swim in Rising Water                         | Hard       | -          |
+## Lec 6 : Other Algorithms
+| S No | Problem              | Difficulty | Solution   |
+| ---- | -------------------- | ---------- | ---------- |
+| 1    | Bridges in Graph     | Hard       | -          |
+| 2    | Articulation Point   | Hard       | -          |
+| 3    | Kosaraju's Algorithm | Hard       | -          |
