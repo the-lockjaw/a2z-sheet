@@ -66,9 +66,9 @@ int kruskal(int V, vector<vector<int>> adj[])
             int v = it.second.second;
 
             // if not connected already, then add to graph
-            if (ds.findUPar(u) != ds.findUPar(v)) {
+            if (ds.find_ult_parent(u) != ds.find_ult_parent(v)) {
                 mstWt += wt;
-                ds.unionBySize(u, v);
+                ds.union_by_size(u, v);
             }
         }
 
