@@ -67,7 +67,7 @@ int main()
 {
     vector<int> vec = {4, 7, 9, 10};
     int n = 4, k = 4;
-    int ans = missingK(vec, n, k);
+    int ans = missingK(vec, k);
     cout << "The missing number is: " << ans << "\n";
     return 0;
 }

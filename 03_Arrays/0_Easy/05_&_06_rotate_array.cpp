@@ -26,6 +26,11 @@ Follow up:
     Could you do it in-place with O(1) extra space?
 */
 
+// reverse first k elements
+// reverse the next n-k elements
+// reverse the whole thing
+// you get the answer
+
 #include<iostream>
 #include<vector>
 using namespace std;
