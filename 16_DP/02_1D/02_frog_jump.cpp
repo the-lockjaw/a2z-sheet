@@ -11,7 +11,6 @@ int frog_jump_helper(vector<int> &dp, vector<int> &heights, int idx){
 	if(dp[idx]!=-1)return dp[idx];
 
 	return dp[idx] = min(frog_jump_helper(dp,heights,idx-1) + abs(heights[idx]-heights[idx-1]), frog_jump_helper(dp,heights,idx-2) + abs(heights[idx]-heights[idx-2]));
-
 }
 
 int frog_jump_memo(vector<int> &heights){
